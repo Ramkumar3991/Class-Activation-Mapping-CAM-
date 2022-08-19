@@ -1,8 +1,8 @@
 ## Class-Activation-Mapping-CAM-
 
-- Code Repository to generate Class Activation Mapping(CAM) for more than one iamges in batch processing.
+ Code Repository to generate Class Activation Mapping(CAM) for more than one iamges in batch processing.
 
-- Following CAM Methods for in the folder
+ Following CAM Methods for in the folder
 
 
 1. NAIVE_CAM
