@@ -5,9 +5,9 @@
  Following CAM Methods are implemented in the folder
  
  Hyper paremeters can be changed
- -Image size
- -Number of Images
- -Batch_size
+ - Image size
+ - Number of Images
+ - Batch_size
 
 1. NAIVE_CAM
 2. GRAD_CAM
