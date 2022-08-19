@@ -5,7 +5,7 @@
 - Following CAM Methods for in the folder
 
 
-1 NAIVE_CAM
-2 GRAD_CAM
-3 GRAD++_CAM
-4 SCORE_CAM
+1. NAIVE_CAM
+2. GRAD_CAM
+3. GRAD++_CAM
+4. SCORE_CAM
