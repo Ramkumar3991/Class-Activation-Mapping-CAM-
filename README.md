@@ -1,4 +1,4 @@
-## Class-Activation-Mapping-CAM-
+## Class-Activation-Mapping (CAM)
 
  Code Repository to generate Class Activation Mapping(CAM) for more than one images in batch processing.
 
